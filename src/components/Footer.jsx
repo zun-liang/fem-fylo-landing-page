@@ -8,7 +8,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFacebookF, faTwitter, faInstagram } from '@fortawesome/free-brands-svg-icons'
 
 
-const FooterContainer = styled.div`
+const FooterContainer = styled.footer`
     width: 100%;
     background-color: var(--dark-blue3);
     padding: 13rem 2.5rem 3rem;

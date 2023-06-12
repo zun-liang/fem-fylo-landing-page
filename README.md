@@ -48,7 +48,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/fylo-landing-page-created-using-reactjs-and-styledcomponents-GESHUJeGU9)
 - Live Site URL: [here](https://zun-liang.github.io/fylo-landing-page/)
 
 ## My process
