@@ -117,7 +117,7 @@ const SignIn = () => {
                     <InputContainer>
                         <InputContainerSmall>
                             <Input 
-                                type="text" 
+                                type="email" 
                                 id="email"
                                 name="email"
                                 value={email}
