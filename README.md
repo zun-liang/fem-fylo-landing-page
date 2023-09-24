@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo dark theme landing page solution
 
-This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -15,7 +15,6 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -26,11 +25,12 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
+
 <table>
     <tr>
         <td>
             <img 
-                src="./src/screenshots/screenshot-mobile-full-page.png"
+                src="./public/screenshots/screenshot-mobile-full-page.png"
                 alt="mobile preview"
                 width="300px" />
         </td>
@@ -38,13 +38,12 @@ Users should be able to:
     <tr>
         <td>
             <img 
-                src="./src/screenshots/screenshot-desktop-full-page.png"
+                src="./public/screenshots/screenshot-desktop-full-page.png"
                 alt="desktop preview"
                 width="300px" />
         </td>
     </tr>
 </table>
-
 
 ### Links
 
@@ -64,7 +63,6 @@ Users should be able to:
 - [Styled Components](https://styled-components.com/) - For styles
 - Vite
 
-
 ### What I learned
 
 - how to work with svg in styled-components
@@ -81,12 +79,10 @@ Users should be able to:
 - unit testing
 - styled-components
 
-
 ### Useful resources
 
-- [How to Import SVGs in a React and Vite app](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/) 
+- [How to Import SVGs in a React and Vite app](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
 - [Handling Custom SVGs in React using Styled Components](https://vaadarsh8178.medium.com/handling-custom-svgs-in-react-using-styled-components-30d2739ff4cb)
-
 
 ## Author
 
